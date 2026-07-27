@@ -18,6 +18,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript. It showcases
 - Tools: VS Code, Git & GitHub, FontAwesome
 
 ## Live Demo
+https://codealpha-task3-portfolio.vercel.app/
 
 ## Highlights
 - Implemented responsive and visually appealing UI with a modern design approach.
